@@ -39,7 +39,27 @@ display: flex;
     max-width: 100%;
 }
 
+.portfoliophotos{
+    display: flex;
+    flex-direction: column;
+    
+    padding: 5px;
+    margin: auto;
+}
 
+.videos{
+    margin: auto;
+    padding: 30px;
+}
+
+.portraits{
+    margin: auto;
+    padding: 30px;
+}
+.adventures1{
+    margin: auto;
+    padding: 30px;
+}
 
 
 
@@ -50,7 +70,7 @@ display: flex;
 .nav-links{
     display:flex;
     justify-content: space-around;
-    width: 50%;
+    width: 25%;
     
     
 }
